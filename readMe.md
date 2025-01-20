@@ -40,4 +40,4 @@ This project is built using TypeScript and Playwright to automate tests on a dro
 
 1. run <npx playwright test --headed> in the terminal for headed mode.
 
-2. run <npx playwright show-report> to check report.
+2. run <'npx playwright show-report'> to check report.
