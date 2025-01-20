@@ -1,0 +1,20 @@
+  {
+    "userData": {
+      "email": "pushpa@circula.com",
+      "password":"circula@123",
+      "firstName":"pushpa",
+      "lastName":"dokania",
+      "companyName": "QA Test"
+    },
+    "countries": [
+      {
+        "country": "Sweden"
+      },
+      {
+        "country": "Swiden"
+      },
+      {
+        "country": "India"
+      }
+    ]
+  }
